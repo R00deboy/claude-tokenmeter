@@ -1,5 +1,6 @@
 {
   "name": "tokenmeter-marketplace",
+  "description": "Tokenmeter: Abo-Kontingent und Kontext der Sitzung in einem Panel neben dem Chat",
   "owner": { "name": "Mattes" },
   "plugins": [{ "name": "tokenmeter", "source": "./" }]
 }

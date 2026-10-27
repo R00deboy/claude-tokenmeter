@@ -15,15 +15,13 @@ Die Werte kommen aus der Antwort der Claude-API und aktualisieren sich nach jede
 Im Terminal (Claude Code):
 
 ```
-/plugin install tokenmeter --marketplace <github-name>/<repo-name>
+/plugin install tokenmeter --marketplace R00deboy/claude-tokenmeter
 ```
 
 Aus einer Shell:
 
 ```
-claude plugin install tokenmeter --marketplace <github-name>/<repo-name>
+claude plugin install tokenmeter --marketplace R00deboy/claude-tokenmeter
 ```
 
-In der Desktop-App: auf **+** neben dem Eingabefeld klicken, dann **Plugins**, **Add marketplace** mit `<github-name>/<repo-name>`, dann **Add plugin**.
-
-`<github-name>/<repo-name>` durch das eigene GitHub-Repository ersetzen.
+In der Desktop-App: auf **+** neben dem Eingabefeld klicken, dann **Plugins**, **Add marketplace** mit `R00deboy/claude-tokenmeter`, dann **Add plugin**.
