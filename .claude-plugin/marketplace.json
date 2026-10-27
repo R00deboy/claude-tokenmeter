@@ -1,0 +1,5 @@
+{
+  "name": "tokenmeter-marketplace",
+  "owner": { "name": "Mattes" },
+  "plugins": [{ "name": "tokenmeter", "source": "./" }]
+}

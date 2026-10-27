@@ -1,0 +1,1 @@
+{ "name": "tokenmeter", "version": "0.1.0", "description": "Zeigt das 5-Stunden- und 7-Tage-Kontingent, die Kontextfüllung und den API-Gegenwert der Sitzung in einem Panel", "types": "./types/index.d.ts" }
